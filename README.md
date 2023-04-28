@@ -1,6 +1,6 @@
 This is a program to help people understand the OS module in python.
 
-It is a one liner with some of the most common file path functions.
+It is a one page .py file with some of the most common file path functions.
 
 There are no packages necessary. Just create a .txt file called data
 
